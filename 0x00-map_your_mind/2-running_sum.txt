@@ -1,0 +1,5 @@
+1. Set a variable Sum = 0
+2. accept user input n
+3. while loop, (conditional: if n is not less than 0)
+4. New value of Sum = old value + n
+5. Print Sum
