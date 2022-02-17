@@ -1,0 +1,4 @@
+sum = 0
+ask user for input of numbers
+for each number i in the input; sum = sum + i^2
+return sum
